@@ -1,0 +1,19 @@
+Instrucciones...
+
+Los ficheros admins.txt ,canales.txt y entrada.txt se pueden borrar, pero no lo hagais
+mientras el bot esté online :-)
+
+Editad el fichero mazinguer.pl y arriba del todo cambiad la configuración a vuestro
+gusto para que conecte donde deseeis.
+
+NOTA IMPORTANTE: El sistema es rústico, si falla, yo no me hago responsable.
+
+Para comenzar, poneis vuestro nick como $root del servicio y una vez que el bot esté
+online, haceis un "ADMIN ADD <vuestronick>", después debiera responder a todos los
+comandos. Si tu mente no da para tanto, edita el fichero admins.txt y pon "tunick
+"
+al principio.
+
+Ale, que sea leve ^^U.
+
+Un saludo... JeNdArK 

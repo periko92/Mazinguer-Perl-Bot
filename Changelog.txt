@@ -1,0 +1,12 @@
+
+#~ MAZINGUER IRC SERVICE v2.1.1.perl02 (sin-modulos) 27-12-03 ~#
+
+- Se añade el comando ENTRYMSG para mostrar un mensaje de bienvenida a la red.
+
+- Se arregla el tema de los globals, había un problema con el caracter $.
+
+- Se me informa de que el RENAME no funciona, las pruebas en irc.ansii.net no
+  muestran este error.
+
+- Se me informa de un error en el netjunction, los +swg caen floodeados por sus
+  propios servidores, las pruebas en irc.ansii.net no muestran este error.
